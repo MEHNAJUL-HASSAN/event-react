@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "Event One",
+    "description": "Join us for an unforgettable evening filled with captivating live music from talented local artists. Experience the vibrant atmosphere and connect with fellow music lovers while enjoying various genres that cater to all tastes.",
+    "category": "Music",
+    "date": "2024-10-15",
+    "availableSeats": 100,
+    "price": 20.0,
+    "image": "https://picsum.photos/300/200?random=1"
+  },
+  {
+    "id": 2,
+    "title": "Event Two",
+    "description": "Immerse yourself in a world of creativity at our art exhibition, showcasing a stunning array of works from local artists. This event is a perfect opportunity to discover new talent, engage with the community, and appreciate the beauty of art.",
+    "category": "Art",
+    "date": "2024-10-20",
+    "availableSeats": 50,
+    "price": 30.0,
+    "image": "https://picsum.photos/300/200?random=2"
+  },
+  {
+    "id": 3,
+    "title": "Jazz Night",
+    "description": "Spend an enchanting evening at our Jazz Night, where smooth melodies and rhythmic tunes will fill the air. Enjoy performances by talented musicians and let the music transport you to a world of relaxation and joy.",
+    "category": "Music",
+    "date": "2024-10-25",
+    "availableSeats": 80,
+    "price": 25.0,
+    "image": "https://picsum.photos/300/200?random=3"
+  },
+  {
+    "id": 4,
+    "title": "Art Exhibition",
+    "description": "Join us for a remarkable art exhibition featuring works from emerging local artists. This event offers a unique chance to explore a variety of styles and mediums while supporting the artistic community.",
+    "category": "Art",
+    "date": "2024-10-28",
+    "availableSeats": 60,
+    "price": 15.0,
+    "image": "https://picsum.photos/300/200?random=4"
+  },
+  {
+    "id": 5,
+    "title": "Football Match",
+    "description": "Experience the thrill of competition as local teams go head-to-head in an exciting football match. Bring your friends and family for an action-packed day filled with teamwork and sportsmanship.",
+    "category": "Sports",
+    "date": "2024-11-01",
+    "availableSeats": 200,
+    "price": 10.0,
+    "image": "https://picsum.photos/300/200?random=5"
+  },
+  {
+    "id": 6,
+    "title": "Cooking Class",
+    "description": "Embark on a culinary journey with our Italian cooking class, where you'll learn to prepare traditional dishes from scratch. Whether you're a novice or an experienced cook, this hands-on experience will elevate your kitchen skills.",
+    "category": "Food",
+    "date": "2024-11-05",
+    "availableSeats": 30,
+    "price": 40.0,
+    "image": "https://picsum.photos/300/200?random=6"
+  },
+  {
+    "id": 7,
+    "title": "Yoga Retreat",
+    "description": "Escape the hustle and bustle of daily life with our rejuvenating yoga retreat. This weekend getaway will focus on mindfulness, relaxation, and personal growth, allowing you to reconnect with your inner self.",
+    "category": "Wellness",
+    "date": "2024-11-10",
+    "availableSeats": 20,
+    "price": 100.0,
+    "image": "https://picsum.photos/300/200?random=7"
+  },
+  {
+    "id": 8,
+    "title": "Film Festival",
+    "description": "Join us for an inspiring film festival that showcases short films from emerging directors. Experience the creativity and storytelling of filmmakers while enjoying engaging discussions and networking opportunities.",
+    "category": "Film",
+    "date": "2024-11-15",
+    "availableSeats": 150,
+    "price": 12.0,
+    "image": "https://picsum.photos/300/200?random=8"
+  },
+  {
+    "id": 9,
+    "title": "Rock Concert",
+    "description": "Get ready for an electrifying night at our rock concert! Enjoy live performances from popular bands and experience the energy and excitement that only live music can bring.",
+    "category": "Music",
+    "date": "2024-11-20",
+    "availableSeats": 250,
+    "price": 35.0,
+    "image": "https://picsum.photos/300/200?random=9"
+  },
+  {
+    "id": 10,
+    "title": "Pottery Workshop",
+    "description": "Unleash your creativity at our pottery workshop, where you'll learn the art of shaping clay into beautiful pieces. Perfect for all skill levels, this workshop promises to be a fun and rewarding experience.",
+    "category": "Art",
+    "date": "2024-11-25",
+    "availableSeats": 25,
+    "price": 45.0,
+    "image": "https://picsum.photos/300/200?random=10"
+  },
+  {
+    "id": 11,
+    "title": "Marathon",
+    "description": "Join us for an exhilarating day of running at our annual marathon. Participants of all ages and fitness levels are welcome to compete in this exciting event filled with camaraderie and spirit.",
+    "category": "Sports",
+    "date": "2024-12-01",
+    "availableSeats": 500,
+    "price": 5.0,
+    "image": "https://picsum.photos/300/200?random=11"
+  },
+  {
+    "id": 12,
+    "title": "Wine Tasting",
+    "description": "Indulge in an exquisite wine tasting experience featuring selections from around the world. Learn about the art of wine-making and discover new favorites in a delightful and relaxed setting.",
+    "category": "Food",
+    "date": "2024-12-05",
+    "availableSeats": 40,
+    "price": 60.0,
+    "image": "https://picsum.photos/300/200?random=12"
+  },
+  {
+    "id": 13,
+    "title": "Meditation Workshop",
+    "description": "Discover techniques for mindfulness and relaxation in our meditation workshop. This session is designed to help you find inner peace and enhance your overall well-being.",
+    "category": "Wellness",
+    "date": "2024-12-10",
+    "availableSeats": 20,
+    "price": 30.0,
+    "image": "https://picsum.photos/300/200?random=13"
+  },
+  {
+    "id": 14,
+    "title": "Photography Walk",
+    "description": "Explore the city while learning photography techniques in our guided photography walk. Capture stunning images and enhance your skills while discovering hidden gems in your local area.",
+    "category": "Art",
+    "date": "2024-12-15",
+    "availableSeats": 15,
+    "price": 20.0,
+    "image": "https://picsum.photos/300/200?random=14"
+  },
+  {
+    "id": 15,
+    "title": "Jazz Festival",
+    "description": "Join us for three days of amazing jazz music featuring top artists from around the world. Experience live performances, workshops, and more in a celebration of this beloved genre.",
+    "category": "Music",
+    "date": "2024-12-20",
+    "availableSeats": 300,
+    "price": 50.0,
+    "image": "https://picsum.photos/300/200?random=15"
+  },
+  {
+    "id": 16,
+    "title": "Baking Class",
+    "description": "Learn to bake delicious treats in our baking class. From pastries to cakes, discover tips and techniques to create mouth-watering desserts that will impress your friends and family.",
+    "category": "Food",
+    "date": "2024-12-25",
+    "availableSeats": 30,
+    "price": 35.0,
+    "image": "https://picsum.photos/300/200?random=16"
+  },
+  {
+    "id": 17,
+    "title": "Dance Class",
+    "description": "Get moving and learn to dance salsa in our fun and engaging dance class. Perfect for beginners and experienced dancers alike, you'll gain confidence and enjoy the rhythm of the music.",
+    "category": "Dance",
+    "date": "2025-01-01",
+    "availableSeats": 20,
+    "price": 25.0,
+    "image": "https://picsum.photos/300/200?random=17"
+  },
+  {
+    "id": 18,
+    "title": "Stand-Up Comedy",
+    "description": "Enjoy a night of laughter with local comedians at our stand-up comedy event. Experience a variety of comedic styles and performances that are sure to tickle your funny bone.",
+    "category": "Comedy",
+    "date": "2025-01-05",
+    "availableSeats": 100,
+    "price": 15.0,
+    "image": "https://picsum.photos/300/200?random=18"
+  },
+  {
+    "id": 19,
+    "title": "Hiking Trip",
+    "description": "Join us for a guided hiking trip to explore the beauty of nature. Enjoy breathtaking views, fresh air, and a chance to connect with fellow outdoor enthusiasts on this adventure.",
+    "category": "Outdoor",
+    "date": "2025-01-10",
+    "availableSeats": 12,
+    "price": 50.0,
+    "image": "https://picsum.photos/300/200?random=19"
+  },
+  {
+    "id": 20,
+    "title": "Tech Conference",
+    "description": "Attend our tech conference and hear from industry leaders about the latest trends and innovations in technology. Network with professionals and gain insights that can propel your career forward.",
+    "category": "Tech",
+    "date": "2025-01-15",
+    "availableSeats": 200,
+    "price": 100.0,
+    "image": "https://picsum.photos/300/200?random=20"
+  },
+  {
+    "id": 21,
+    "title": "Fashion Show",
+    "description": "Witness the latest trends in fashion at our exciting fashion show. Experience the creativity and style of talented designers while enjoying a glamorous evening with fellow fashion enthusiasts.",
+    "category": "Fashion",
+    "date": "2025-01-20",
+    "availableSeats": 150,
+    "price": 40.0,
+    "image": "https://picsum.photos/300/200?random=21"
+  },
+  {
+    "id": 22,
+    "title": "Book Fair",
+    "description": "Explore a wide selection of books and discover new authors at our annual book fair. Engage with writers, attend readings, and find your next favorite read in a vibrant community atmosphere.",
+    "category": "Literature",
+    "date": "2025-01-25",
+    "availableSeats": 300,
+    "price": 5.0,
+    "image": "https://picsum.photos/300/200?random=22"
+  },
+  {
+    "id": 23,
+    "title": "Charity Gala",
+    "description": "Join us for a night of giving at our charity gala, where your participation will make a difference in the lives of others. Enjoy a splendid evening with entertainment, food, and inspiring stories.",
+    "category": "Charity",
+    "date": "2025-01-30",
+    "availableSeats": 100,
+    "price": 150.0,
+    "image": "https://picsum.photos/300/200?random=23"
+  },
+  {
+    "id": 24,
+    "title": "Tech Workshop",
+    "description": "Participate in our tech workshop to learn about the latest advancements in technology. Gain hands-on experience and valuable skills that will keep you ahead in this fast-paced industry.",
+    "category": "Tech",
+    "date": "2025-02-05",
+    "availableSeats": 50,
+    "price": 75.0,
+    "image": "https://picsum.photos/300/200?random=24"
+  },
+  {
+    "id": 25,
+    "title": "Wellness Retreat",
+    "description": "Experience a weekend dedicated to wellness with activities designed to rejuvenate your mind, body, and spirit. Connect with others while focusing on holistic health and well-being.",
+    "category": "Wellness",
+    "date": "2025-02-10",
+    "availableSeats": 20,
+    "price": 200.0,
+    "image": "https://picsum.photos/300/200?random=25"
+  },
+  {
+    "id": 26,
+    "title": "Local Market",
+    "description": "Explore our vibrant local market filled with crafts, foods, and handmade goods. Support local vendors and discover unique items while enjoying a fun and festive atmosphere.",
+    "category": "Food",
+    "date": "2025-02-15",
+    "availableSeats": 100,
+    "price": 10.0,
+    "image": "https://picsum.photos/300/200?random=26"
+  },
+  {
+    "id": 27,
+    "title": "Sculpture Exhibition",
+    "description": "Discover an inspiring collection of sculptures at our local exhibition. This event highlights the creativity of local sculptors and offers a unique opportunity to appreciate their work.",
+    "category": "Art",
+    "date": "2025-02-20",
+    "availableSeats": 50,
+    "price": 20.0,
+    "image": "https://picsum.photos/300/200?random=27"
+  },
+  {
+    "id": 28,
+    "title": "Kids Workshop",
+    "description": "Bring your children to our fun kids workshop filled with engaging activities and creative projects. This event is designed to inspire young minds and provide a joyful learning experience.",
+    "category": "Kids",
+    "date": "2025-02-25",
+    "availableSeats": 30,
+    "price": 15.0,
+    "image": "https://picsum.photos/300/200?random=28"
+  },
+  {
+    "id": 29,
+    "title": "Startup Pitch Night",
+    "description": "Join us for an exciting evening where startups pitch their innovative ideas to a panel of judges. This event is a fantastic opportunity to see the next big ideas in action and network with entrepreneurs.",
+    "category": "Business",
+    "date": "2025-03-01",
+    "availableSeats": 100,
+    "price": 30.0,
+    "image": "https://picsum.photos/300/200?random=29"
+  },
+  {
+    "id": 30,
+    "title": "Outdoor Movie Night",
+    "description": "Enjoy a classic movie under the stars at our outdoor movie night. Bring your blankets and snacks for a memorable evening of entertainment in a beautiful outdoor setting.",
+    "category": "Film",
+    "date": "2025-03-05",
+    "availableSeats": 150,
+    "price": 20.0,
+    "image": "https://picsum.photos/300/200?random=30"
+  }
+]
